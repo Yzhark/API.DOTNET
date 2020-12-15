@@ -1,0 +1,47 @@
+Construindo um projeto de uma API.NET integrada ao MongoDB
+
+
+Frontend e backend
+
+Web             DB
+Mobile    API   Service
+Service         File
+
+MongoDB - banco NoSQL(Document model)
+
+
+Relational DB			MongoDB
+
+Base de Dados			Base de Dados
+Tabela					Coleção
+Registro				Documento
+Coluna					Atributo
+
+
+*Usar Standalone apenas em Desenvolvimento
+
+Replicaset
+
+
+MongoDB Compass:
+
+www.mongodb.com/download-center/compass
+
+dotnet add package MongoDB.Driver
+
+1. Acessa o Mongo Atlas - Criado com meu e-mail yzh4rk@gmail.com
+2. Criar um cluster(Estudar mais sobre)
+
+
+**estudar sobre injeção de dependências
+
+
+VAMbiZQEdqUhULWj
+
+mongodb+srv://api:VAMbiZQEdqUhULWj@cluster0.cbop5.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+https://localhost:44330/swagger
+
+
+
